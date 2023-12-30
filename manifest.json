@@ -1,0 +1,9 @@
+{
+    "name": "Flatland",
+    "version_number": "0.0.1",
+    "website_url": "https://github.com/ToolifyStudios/flatland/",
+    "description": "A truly flat map, with no hills, no bodies of water, and no holes, you can build anywhere you wish! Feel free to use the Terraforming tools to add hills or make holes. You have access to the edge of the map at the start. For support, check the README file.",
+    "dependencies": [
+        "Cities2Modding-MapInstaller-0.0.1"
+    ]
+}
