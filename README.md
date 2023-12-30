@@ -12,3 +12,11 @@ A truly flat map, with no hills, no bodies of water, and no holes, you can build
    `Flatland.cok` and `Flatland.cok.cid`
 
 3. You should be done! Hop into the game (with your mods enabled) and create a new game, and then pick the map! Have fun!
+
+## Support/Questions
+
+**If you have any questions about this, feel free to DM me on the platforms below:**
+
+Twitter/X: `@toolifystudios`
+Discord: `toolify` OR `Toolify#1742`
+
