@@ -10,13 +10,13 @@ A truly flat map, with no hills, no bodies of water, and no holes, you can build
 
 **If the folder does not exist, check to see if you have the [Map Installer Mod](https://thunderstore.io/c/cities-skylines-ii/p/Cities2Modding/MapInstaller/) installed.**
 
-3. Drag and Drop (or just Copy) the following two files into the folder:
+2. Drag and Drop (or just Copy) the following two files into the folder:
    `Flatland.cok` and `Flatland.cok.cid`
 
 **Important: Due to some technical errors, please download this file from Thunderstore, just click on "Manual Install" as that has all the files needed, GitHub is not willing to work today.**
 [Click here to visit the Thunderstore download page](https://thunderstore.io/c/cities-skylines-ii/p/toolify/Flatland/)
 
-5. You should be done! Hop into the game (with your mods enabled) and create a new game, and then pick the map! Have fun!
+3. You should be done! Hop into the game (with your mods enabled) and create a new game, and then pick the map! Have fun!
 
 ## Support/Questions
 
