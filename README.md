@@ -6,7 +6,7 @@ A truly flat map, with no hills, no bodies of water, and no holes, you can build
 
 1. Go to the following path in a file exploring app (WinRar, Windows File Explorer, etc.):
 `C:\Users\[YourUsername]\AppData\LocalLow\Colossal Order\Cities Skylines II\Maps`
-**If the folder does not exist, check to see if you have the (Map Installer Mod)[https://thunderstore.io/c/cities-skylines-ii/p/Cities2Modding/MapInstaller/] installed.**
+**If the folder does not exist, check to see if you have the [Map Installer Mod](https://thunderstore.io/c/cities-skylines-ii/p/Cities2Modding/MapInstaller/) installed.**
 
 2. Drag and Drop (or just Copy) the following two files into the folder:
    `Flatland.cok` and `Flatland.cok.cid`
